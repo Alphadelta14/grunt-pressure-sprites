@@ -1,0 +1,37 @@
+{
+  "name": "grunt-pressure-sprites",
+  "description": "Pressure Spritesheet Generator wrapper for Grunt",
+  "version": "0.1.0",
+  "homepage": "https://github.com/Alphadelta14/grunt-pressure-sprites",
+  "author": {
+    "name": "Alpha",
+    "email": "alpha@projectpokemon.org",
+    "url": "http://projectpokemon.org"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/Alphadelta14/grunt-pressure-sprites.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Alphadelta14/grunt-pressure-sprites/issues"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://github.com/Alphadelta14/grunt-pressure-sprites/blob/master/LICENSE"
+    }
+  ],
+  "engines": {
+    "node": ">= 0.8.0"
+  },
+  "scripts": {
+    "test": "grunt test"
+  },
+  "peerDependencies": {
+    "grunt": "~0.4.4"
+  },
+  "keywords": [
+    "gruntplugin",
+    "spritesheet"
+  ]
+}
